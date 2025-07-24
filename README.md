@@ -1,4 +1,4 @@
-# instruction-level-sidechannel
+# AI-for-instruction-level-sidechannel
 
 ## 介绍
 
@@ -15,24 +15,10 @@
 软件架构说明
 
 ## 安装教程
-#### 1. 必看！！！ 
-
-* 拉取下来的项目名称为instructoin-level-sidechannel，必须改名src，才可以运行，
+* 拉取下来的项目名称为AI-for-instruction-level-sidechannel，推荐改名src再运行，
 因为原项目是放在src下面的，其余文件路径可以查看Configuration_0n.py文件
-#### 2. Git教程：
 
-* 拉取:
-
-1) 新建文件夹,右键Git bash here
-2) git init
-3) git remote add origin git@gitee.com:cgchacker/instruction-level-sidechannel.git
-4) git pull origin master
-
-* 提交:
-
-1) git add Configuration_01.py    (可以是文件也可以是文件夹 git add .代表添加所有)
-2) git commit -m "今日提交"
-3) git push -u origin master
+* 环境：略
 
 
 ## 使用说明
