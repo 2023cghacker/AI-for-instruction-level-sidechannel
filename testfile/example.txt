@@ -1,0 +1,15 @@
+ORG 00H
+Start:
+    NOP
+    MOV P1,#0x04
+    ADDC A R1
+    ADD A R0
+    DEC R3
+    
+
+
+    MOV P1,#0x00
+    NOP
+
+    JMP Start
+end
